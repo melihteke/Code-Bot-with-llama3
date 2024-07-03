@@ -1,5 +1,5 @@
 # Code-Bot-with-llama3
-Automated Code Extraction and Execution from Textual Descriptions: This repository contains a Python script that automates the process of extracting code blocks from textual descriptions provided by the ollama API, writing these code blocks to a Python file, and executing the file. 
+Automated Code Extraction and Execution from Textual Descriptions: This repository contains a Python script that automates the process of extracting code blocks from textual descriptions provided by the ollama API, writing these code blocks to a Python file, and executing the file in runtime.
 
 ## Llama3 Model Installation to your system
 Go below link and follow the steps to install llama3 model.
@@ -16,7 +16,7 @@ After this point you should be able to run llama3.
 
 ## Clone the repo
 ```sh
-[git clone](https://github.com/melihteke/Code-Bot-with-llama3.git)
+git clone https://github.com/melihteke/Code-Bot-with-llama3.git
 ```
 
 ### Run the code
